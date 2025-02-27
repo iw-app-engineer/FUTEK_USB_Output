@@ -1,4 +1,7 @@
-	1. Download VSCode (popular code editor for writing code)
+The purpose of this repo is to lend some insight into streamning ASCII directly with python and pyserial.
+For the full explanation please refer to the shared loom.  
+
+ 	1. Download VSCode (popular code editor for writing code)
 	Download Visual Studio Code - Mac, Linux, Windows
 	
 	2. Download Python from Microsoft store
